@@ -1,8 +1,6 @@
-# FTK_CANVAS_AGENT_for_Comfyui
-https://github.com/zeusftk/FTK_CANVAS_AGENT_for_Comfyui
 
 # FTK_CANVAS_AGENT 项目介绍
-
+[ENGLISH README](https://github.com/zeusftk/FTK_CANVAS_AGENT_for_Comfyui/blob/main/README_EN.md)
 ## 项目概述  
 FTK Canvas Agent是一款功能强大的多媒体处理与自动化工具集，专注于视频、音频处理及智能剪辑。  
 
@@ -10,10 +8,10 @@ FTK Canvas Agent是一款功能强大的多媒体处理与自动化工具集，�
 
 FTK Canvas Agent 核心功能：通过连接ComfyUI实现AI服务，智能管理ComfyUI工作流，实现仅靠通过对话无感调用工作流完成各种任务。
 
+## 演示视频
 <div align="center">
 <img src="/assert/介绍1.gif"  alt="FTK_CANVAS_AGENT" width="800"/>
 </div>
-
 
 
 ## 核心功能
@@ -67,8 +65,9 @@ FTK Canvas Agent 配置 ComfyUI 后，可通过聊天自动调用并执行 Comfy
 
 
 ## 🔥 Latest Upate!!
-* 2025-10-25: 👋 v1.01 已发布
-    windows版本，迅雷下载地址（BT下载）:https://pan.baidu.com/s/1vQplT_mcC6upgnl9NRsrzA?pwd=q68x
+* 2025-10-26: 👋 v1.01 已发布
+    windows版本，百度网盘:https://pan.baidu.com/s/1vQplT_mcC6upgnl9NRsrzA?pwd=q68x
+    [windows版本，迅雷下载地址（BT下载）:](https://github.com/zeusftk/FTK_CANVAS_AGENT_for_Comfyui/blob/main/assert/FTK_CANVAS_AGENT_v1.01.torrent)
 
 
 <div align="center">
@@ -80,7 +79,7 @@ FTK Canvas Agent 配置 ComfyUI 后，可通过聊天自动调用并执行 Comfy
     <td width="33.33%" align="center" style="padding: 10px; border: 1px solid #eee;">
       <p><b>图生视频（I2V）</b></p>
       <a href="https://www.douyin.com/video/7532697296916581668" target="_blank" rel="noopener noreferrer">
-        <img src="/src/FTK_00003.png" 
+        <img src="https://github.com/zeusftk/FTK_AI/blob/main/src/FTK_00003.png" 
              alt="视频预览图" width="30%" 
              align="center">
       </a>
@@ -91,7 +90,7 @@ FTK Canvas Agent 配置 ComfyUI 后，可通过聊天自动调用并执行 Comfy
     <td width="33.33%" align="center" style="padding: 10px; border: 1px solid #eee;">
       <p><b>视频外补（outpaint）</b></p>
       <a href="https://www.douyin.com/video/7533483231333666111" target="_blank" rel="noopener noreferrer">
-        <img src="/src/11.png" 
+        <img src="https://github.com/zeusftk/FTK_AI/blob/main/src/11.png" 
              alt="视频预览图" width="55%" 
              align="center">
       </a>
@@ -102,7 +101,7 @@ FTK Canvas Agent 配置 ComfyUI 后，可通过聊天自动调用并执行 Comfy
     <td width="33.33%" align="center" style="padding: 10px; border: 1px solid #eee;">
       <p><b>视频重绘（V2V）</b></p>
       <a href="https://www.douyin.com/video/7532775589111926057" target="_blank" rel="noopener noreferrer">
-        <img src="/src/%E8%BD%AC%E7%BB%98%E5%B0%81%E9%9D%A2.jpg" 
+        <img src="https://github.com/zeusftk/FTK_AI/blob/main/src/%E8%BD%AC%E7%BB%98%E5%B0%81%E9%9D%A2.jpg" 
              alt="视频预览图" width="60%" 
              align="center">
       </a>
@@ -118,7 +117,7 @@ FTK Canvas Agent 配置 ComfyUI 后，可通过聊天自动调用并执行 Comfy
     <td width="33.33%" align="center" style="padding: 10px; border: 1px solid #eee;">
       <p><b>图生视频（I2V）自动运镜</b></p>
       <a href="https://www.douyin.com/video/7535101962937748775" target="_blank" rel="noopener noreferrer">
-        <img src="/src/FTK_00004.png" 
+        <img src="https://github.com/zeusftk/FTK_AI/blob/main/src/FTK_00004.png" 
              alt="视频预览图" width="30%" 
              align="center">
       </a>
@@ -129,7 +128,7 @@ FTK Canvas Agent 配置 ComfyUI 后，可通过聊天自动调用并执行 Comfy
     <td width="33.33%" align="center" style="padding: 10px; border: 1px solid #eee;">
       <p><b>图生视频（I2V）表情包特效</b></p>
       <a href="https://www.douyin.com/video/7535331210071903524" target="_blank" rel="noopener noreferrer">
-        <img src="/src/FTK_00005.png" 
+        <img src="https://github.com/zeusftk/FTK_AI/blob/main/src/FTK_00005.png" 
              alt="视频预览图" width="30%" 
              align="center">
       </a>
@@ -140,7 +139,7 @@ FTK Canvas Agent 配置 ComfyUI 后，可通过聊天自动调用并执行 Comfy
     <td width="33.33%" align="center" style="padding: 10px; border: 1px solid #eee;">
       <p><b>视频重绘（V2V）动作迁移</b></p>
       <a href="https://www.douyin.com/video/7537684455952010535" target="_blank" rel="noopener noreferrer">
-        <img src="/src/FTK_00006.png" 
+        <img src="https://github.com/zeusftk/FTK_AI/blob/main/src/FTK_00006.png" 
              alt="视频预览图" width="60%" 
              align="center">
       </a>
