@@ -64,6 +64,9 @@ After configuring ComfyUI, FTK Canvas Agent can automatically call and execute C
 
 
 ## 🔥 Latest Update!!
+* 2025-10-30: 👋 Version 1.02 has been released. This is an update package that fixes some frontend display bugs and improves the agent's planning capabilities. To update, extract the update package to the root directory of Version 1.01 and run update.exe.
+    - Download Link - Baidu Netdisk: https://pan.baidu.com/s/1vQplT_mcC6upgnl9NRsrzA?pwd=q68x
+
 * 2025-10-26: 👋 v1.01 Released, one-click installation package.
     - Windows version, Baidu Netdisk: https://pan.baidu.com/s/1vQplT_mcC6upgnl9NRsrzA?pwd=q68x
     - Windows version, Thunder download address (BT download): [Torrent](https://github.com/zeusftk/FTK_CANVAS_AGENT_for_Comfyui/blob/main/assert/FTK_CANVAS_AGENT_v1.01.torrent)
