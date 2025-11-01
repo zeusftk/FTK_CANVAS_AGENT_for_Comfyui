@@ -319,7 +319,7 @@ class FTKSaveVideo:
             
             # 使用OpenCV先保存为临时raw视频
             # 定义视频编码器 - 使用MJPG作为中间格式
-            fourcc_temp = cv2.VideoWriter_fourcc(*'MJPG')
+            fourcc_temp = cv2.VideoWriter_fourcc(*'mp4v')
             temp_out = cv2.VideoWriter(temp_raw_path, fourcc_temp, fps, (width, height))
             
             # 写入每一帧到临时文件
@@ -354,7 +354,7 @@ class FTKSaveVideo:
             temp_video_path = os.path.join(output_dir, f"{filename_prefix}_temp_{next_number:05d}.mp4")
             
             # 使用MJPG作为中间格式保存临时视频
-            fourcc_temp = cv2.VideoWriter_fourcc(*'MJPG')
+            fourcc_temp = cv2.VideoWriter_fourcc(*'mp4v')
             out = cv2.VideoWriter(temp_video_path, fourcc_temp, fps, (width, height))
             
             # 写入每一帧
