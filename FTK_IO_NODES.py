@@ -206,7 +206,7 @@ class FTKSaveVideo:
                 "frames": ("IMAGE", {"default": None}),
                 "output_dir": ("STRING", {"default": '', "multiline": False, "tooltip": "输出目录"}),
                 "filename_prefix": ("STRING", {"default": "FTK"}),
-                "fps": ("INT", {"default": 25, "min": 1, "max": 60, "step": 1}),
+                "fps": ("FLOAT", {"default": 25, "min": 1, "max": 60, "step": 0.1}),
             },
             "optional": {
                 "audio": ("AUDIO", {"default": None, "tooltip": "可选的音频输入，提供时将合并到视频中"}),
@@ -580,13 +580,13 @@ class FTK_INPUT:
                 
                 # 视频输入部分 - 视频1
                 "video_1_file": ("STRING", {"default": "", "multiline": False, "tooltip": "第一个视频文件路径"}),
-                "video_1_frame_rate": ("INT", {"default": 24, "min": 1, "max": 60, "step": 1, "tooltip": "第一个视频帧率"}),
+                "video_1_frame_rate": ("FLOAT", {"default": 24, "min": 1, "max": 60, "step": 0.1, "tooltip": "第一个视频帧率"}),
                 "video_1_max_frames": ("INT", {"default": 64, "min": 1, "max": 10000, "step": 1, "tooltip": "第一个视频最大输出帧数"}),
                 "video_1_start_frame": ("INT", {"default": 0, "min": 0, "step": 1, "tooltip": "第一个视频起始帧"}),
                 
                 # 视频输入部分 - 视频2
                 "video_2_file": ("STRING", {"default": "", "multiline": False, "tooltip": "第二个视频文件路径"}),
-                "video_2_frame_rate": ("INT", {"default": 24, "min": 1, "max": 60, "step": 1, "tooltip": "第二个视频帧率"}),
+                "video_2_frame_rate": ("FLOAT", {"default": 24, "min": 1, "max": 60, "step": 0.1, "tooltip": "第二个视频帧率"}),
                 "video_2_max_frames": ("INT", {"default": 64, "min": 1, "max": 10000, "step": 1, "tooltip": "第二个视频最大输出帧数"}),
                 "video_2_start_frame": ("INT", {"default": 0, "min": 0, "step": 1, "tooltip": "第二个视频起始帧"}),
                 
