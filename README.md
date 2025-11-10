@@ -65,9 +65,9 @@ FTK Canvas Agent 配置 ComfyUI 后，可通过聊天自动调用并执行 Comfy
 
 
 ## 🔥 Latest Upate!!
-* 2025-10-26: 👋 v1.01 已发布
-    windows版本，百度网盘:https://pan.baidu.com/s/1vQplT_mcC6upgnl9NRsrzA?pwd=q68x
-    [windows版本，迅雷下载地址（BT下载）:](https://github.com/zeusftk/FTK_CANVAS_AGENT_for_Comfyui/blob/main/assert/FTK_CANVAS_AGENT_v1.01.torrent)
+* 2025-10-26: 👋 v1.01 已发布，一键安装包。
+    - windows版本，百度网盘:https://pan.baidu.com/s/1vQplT_mcC6upgnl9NRsrzA?pwd=q68x
+    - windows版本，迅雷下载地址（BT下载）:[种子](https://github.com/zeusftk/FTK_CANVAS_AGENT_for_Comfyui/blob/main/assert/FTK_CANVAS_AGENT_v1.01.torrent)
 
 
 <div align="center">

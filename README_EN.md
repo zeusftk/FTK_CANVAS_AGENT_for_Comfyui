@@ -64,9 +64,9 @@ After configuring ComfyUI, FTK Canvas Agent can automatically call and execute C
 
 
 ## 🔥 Latest Update!!
-* 2025-10-26: 👋 v1.01 Released
-    Windows version, Baidu Netdisk: https://pan.baidu.com/s/1vQplT_mcC6upgnl9NRsrzA?pwd=q68x
-    Windows version, Thunder download address (BT download): https://pan.baidu.com/s/1vQplT_mcC6upgnl9NRsrzA?pwd=q68x
+* 2025-10-26: 👋 v1.01 Released, one-click installation package.
+    - Windows version, Baidu Netdisk: https://pan.baidu.com/s/1vQplT_mcC6upgnl9NRsrzA?pwd=q68x
+    - Windows version, Thunder download address (BT download): [Torrent](https://github.com/zeusftk/FTK_CANVAS_AGENT_for_Comfyui/blob/main/assert/FTK_CANVAS_AGENT_v1.01.torrent)
 
 
 <div align="center">
