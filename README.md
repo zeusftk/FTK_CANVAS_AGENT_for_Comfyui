@@ -10,7 +10,7 @@ FTK Canvas Agent 核心功能：通过连接ComfyUI实现AI服务，智能管理
 
 ## 演示视频
 <div align="center">
-<img src="/assert/介绍1.gif"  alt="FTK_CANVAS_AGENT" width="800"/>
+<img src="/assert/一键多功能.gif"  alt="FTK_CANVAS_AGENT" width="800"/>
 </div>
 
 

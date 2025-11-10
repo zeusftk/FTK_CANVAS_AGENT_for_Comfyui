@@ -9,7 +9,7 @@ FTK Canvas Agent's core function: By connecting to ComfyUI to implement AI servi
 
 ## Demo Video
 <div align="center">
-<img src="/assert/介绍1.gif"  alt="FTK_CANVAS_AGENT" width="800"/>
+<img src="/assert/一键多功能.gif"  alt="FTK_CANVAS_AGENT" width="800"/>
 </div>
 
 
@@ -64,12 +64,11 @@ After configuring ComfyUI, FTK Canvas Agent can automatically call and execute C
 
 
 ## 🔥 Latest Update!!
-* 2025-10-30: 👋 Version 1.02 has been released. This is an update package that fixes some frontend display bugs and improves the agent's planning capabilities. To update, extract the update package to the root directory of Version 1.01 and run update.exe.
-    - Download Link - Baidu Netdisk: https://pan.baidu.com/s/1vQplT_mcC6upgnl9NRsrzA?pwd=q68x
-
-* 2025-10-26: 👋 v1.01 Released, one-click installation package.
+* 2025-11-10: 👋 v1.03 Released, stable version. Planned features are still in testing. One-click installation package available.
     - Windows version, Baidu Netdisk: https://pan.baidu.com/s/1vQplT_mcC6upgnl9NRsrzA?pwd=q68x
-    - Windows version, Thunder download address (BT download): [Torrent](https://github.com/zeusftk/FTK_CANVAS_AGENT_for_Comfyui/blob/main/assert/FTK_CANVAS_AGENT_v1.01.torrent)
+    - Windows version, Thunder download address (BT download): [Torrent](https://github.com/zeusftk/FTK_CANVAS_AGENT_for_Comfyui/blob/main/assert/FTK_CANVAS_AGENT_v1.03.torrent)
+* 2025-10-30: 👋 v1.02 Released, update package. Fixed some frontend display bugs and improved agent planning capabilities. Extract the update package to the root directory of v1.01 and run update.exe to complete the update.
+* 2025-10-26: 👋 v1.01 Released, one-click installation package.
 
 
 <div align="center">
@@ -199,7 +198,7 @@ A: Increase virtual memory, close unnecessary applications
 
 ## License
 
-This software can be used for personal and commercial use. By modifying the LOGO and name, you can implement a personal AI service small website.
+This software can be used for personal and commercial purposes. You can create your own AI service website by modifying the LOGO and name.
 
 ---
 © 2025 FTK Canvas Agent. All rights reserved.
