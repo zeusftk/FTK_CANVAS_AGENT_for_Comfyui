@@ -1,6 +1,6 @@
 
 # FTK_COMFYUI_AGENT 项目介绍
-[ENGLISH README](https://github.com/zeusftk/FTK_COMFYUI/blob/main/README_EN.md)
+[ENGLISH README](https://github.com/zeusftk/FTK_Comfyui_Agent/blob/main/README_EN.md)
 ## 项目概述  
 FTK COMFYUI Agent是一款功能强大的多媒体处理与自动化工具集，专注于视频、音频处理及智能剪辑。  
 
