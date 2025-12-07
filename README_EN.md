@@ -1,5 +1,5 @@
 # FTK_CANVAS_AGENT Project Introduction
-[中文介绍](https://github.com/zeusftk/FTK_CANVAS_AGENT_for_Comfyui/blob/main/README.md)
+[中文介绍](https://github.com/zeusftk/FTK_Comfyui_Agent/blob/main/README.md)
 ## Project Overview  
 FTK Canvas Agent is a powerful multimedia processing and automation toolset, focusing on video, audio processing and intelligent editing.
 
