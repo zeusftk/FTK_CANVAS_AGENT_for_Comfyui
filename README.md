@@ -1,16 +1,16 @@
 
-# FTK_CANVAS_AGENT 项目介绍
-[ENGLISH README](https://github.com/zeusftk/FTK_CANVAS_AGENT_for_Comfyui/blob/main/README_EN.md)
+# FTK_COMFYUI_AGENT 项目介绍
+[ENGLISH README](https://github.com/zeusftk/FTK_Comfyui_Agent/blob/main/README_EN.md)
 ## 项目概述  
-FTK Canvas Agent是一款功能强大的多媒体处理与自动化工具集，专注于视频、音频处理及智能剪辑。  
+FTK COMFYUI Agent是一款功能强大的多媒体处理与自动化工具集，专注于视频、音频处理及智能剪辑。  
 
 该工具集成多项先进AI技术，覆盖视频、音频、剪辑全流程处理，核心能力包括 **✨ AI剪辑、AI特效、智能配音、AI自动评论** 等。其内置横竖屏分类、场景切片、动作片段提取、字幕添加、音色转换等实用功能，支持 **🚀 开箱即用零配置**。  
 
-FTK Canvas Agent 核心功能：通过连接ComfyUI实现AI服务，智能管理ComfyUI工作流，实现仅靠通过对话无感调用工作流完成各种任务。
+FTK COMFYUI Agent 核心功能：通过连接ComfyUI实现AI服务，智能管理ComfyUI工作流，实现仅靠通过对话无感调用工作流完成各种任务。
 
 ## 演示视频
 <div align="center">
-<img src="/assert/一键多功能.gif"  alt="FTK_CANVAS_AGENT" width="800"/>
+<img src="/assert/一键多功能.gif"  alt="FTK_COMFYUI_AGENT" width="800"/>
 </div>
 
 
@@ -18,7 +18,7 @@ FTK Canvas Agent 核心功能：通过连接ComfyUI实现AI服务，智能管理
 
 ## 核心功能：智能ComfyUI工作流管理
 
-FTK Canvas Agent 配置 ComfyUI 后，可通过聊天自动调用并执行 ComfyUI workflow，更能帮 workflow 管理者打通 “设计 - 分发 - 服务” 全链路，让优质 ComfyUI workflow 持续释放价值、触达更多需求场景。
+FTK COMFYUI Agent 配置 ComfyUI 后，可通过聊天自动调用并执行 ComfyUI workflow，更能帮 workflow 管理者打通 “设计 - 分发 - 服务” 全链路，让优质 ComfyUI workflow 持续释放价值、触达更多需求场景。
 
 ### 🗣️ 智能对话驱动：降低门槛，扩大 ComfyUI workflow 覆盖
 - 自然语言控制：用户无需复杂操作，聊天即可触发你的 ComfyUI workflow，轻松触达更多潜在使用者
@@ -158,7 +158,7 @@ FTK Canvas Agent 配置 ComfyUI 后，可通过聊天自动调用并执行 Comfy
 ### Windows安装
 1. 下载最新版本安装包
 2. 解压缩到目标目录
-3. 双击 `FTK_Canvas_Agent.exe` 启动程序
+3. 双击 `FTK_COMFYUI_Agent.exe` 启动程序
 
 ### macOS安装（todo）
 
@@ -273,7 +273,7 @@ A: 增加虚拟内存，关闭不必要的应用程序
 本软件，可用于个人和商业使用，自行修改LOGO和名称，即可实现个人AI服务小心网站。
 
 ---
-© 2025 FTK Canvas Agent. 保留所有权利。
+© 2025 FTK COMFYUI Agent. 保留所有权利。
 
 
 
