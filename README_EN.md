@@ -1,9 +1,9 @@
 # FTK_CANVAS_AGENT Project Introduction
 [中文介绍](https://github.com/zeusftk/FTK_Comfyui_Agent/blob/main/README.md)
 ## Project Overview  
-FTK Canvas Agent is a powerful multimedia processing and automation toolset, focusing on video, audio processing and intelligent editing.
+FTK Canvas Agent is a powerful multimedia processing and automation toolset, focusing on video, audio processing and intelligent editing.  
 
-This tool integrates multiple advanced AI technologies, covering the entire process of video, audio, and editing, with core capabilities including **✨ AI Editing, AI Effects, Intelligent Voice-over** and more. It features built-in horizontal/vertical screen classification, scene slicing, action segment extraction, subtitle addition, voice conversion and other practical functions, supporting **🚀 Ready-to-use with zero configuration**.
+This tool integrates multiple advanced AI technologies, covering the entire process of video, audio, and editing, with core capabilities including **✨ AI Editing, AI Effects, Intelligent Voice-over, AI Auto Comment** and more. It features built-in horizontal/vertical screen classification, scene slicing, action segment extraction, subtitle addition, voice conversion and other practical functions, supporting **🚀 Ready-to-use with zero configuration**.
 
 FTK Canvas Agent's core function: By connecting to ComfyUI to implement AI services, intelligently managing ComfyUI workflows, enabling seamless workflow calls through dialogue to complete various tasks.
 
@@ -64,9 +64,9 @@ After configuring ComfyUI, FTK Canvas Agent can automatically call and execute C
 
 
 ## 🔥 Latest Update!!
-* 2025-11-10: 👋 v1.03 Released, stable version. Planned features are still in testing. One-click installation package available.
+* 2025-12-17: 👋 v1.05 Released, stable version. Added automatic Douyin/Xiaohongshu comment feature, directly input auto comment to bring up the interface. (You can use the comment function without downloading the model (200G))
     - Windows version, Baidu Netdisk: https://pan.baidu.com/s/1vQplT_mcC6upgnl9NRsrzA?pwd=q68x
-    - Windows version, Thunder download address (BT download): [Torrent](https://github.com/zeusftk/FTK_CANVAS_AGENT_for_Comfyui/blob/main/assert/FTK_CANVAS_AGENT_v1.03.torrent)
+* 2025-11-10: 👋 v1.03 Released, stable version. Planned features are still in testing. One-click installation package available.
 * 2025-10-30: 👋 v1.02 Released, update package. Fixed some frontend display bugs and improved agent planning capabilities. Extract the update package to the root directory of v1.01 and run update.exe to complete the update.
 * 2025-10-26: 👋 v1.01 Released, one-click installation package.
 
@@ -161,6 +161,76 @@ After configuring ComfyUI, FTK Canvas Agent can automatically call and execute C
 
 ### macOS Installation (todo)
 
+### Detailed Built-in Functions
+
+ 🔌【FTK_Text Dialogue】: General chat dialogue function
+
+ 🔌【FTK_Portrait Generation】: Input 1 image, generate portrait image
+
+ 🔌【FTK_Viewpoint Modification】: Input 1 image, modify the image viewpoint
+
+ 🔌【FTK_Action Migration】: Input 2 images, implement action migration
+
+ 🔌【FTK_Action Long Shot Short Film】: Input 1 image, generate long shot action short film
+
+ 🔌【FTK_Single-person Commentary】: Input text and 1 audio, generate single-person commentary
+
+ 🔌【FTK_Double-person Podcast】: Input text and 2 audios, generate double-person podcast
+
+ 🔌【FTK_Image Background Removal】: Remove image background
+
+ 🔌【FTK_Image Lip Sync】: Input 1 image and 1 audio, implement image lip sync
+
+ 🔌【FTK_Image Step Editing】: Input 1 image, edit the image step by step
+
+ 🔌【FTK_Image Object Removal】: Input 1 image, remove specified objects
+
+ 🔌【FTK_Image Editing_1】: Input 1 image, edit the image according to requirements
+
+ 🔌【FTK_Image Editing_2】: Input 2 images, edit the image according to requirements
+
+ 🔌【FTK_Image Editing_3】: Input 3 images, edit the image according to requirements
+
+ 🔌【FTK_Image Sticker】: Input 1 image, perform image sticker
+
+ 🔌【FTK_Image to Short Film】: Input 1 image, generate short film video according to requirements
+
+ 🔌【FTK_Image to Video】: Input 1 image, generate video according to description
+
+ 🔌【FTK_Image to Video First and Last Frame】: Input 2 images as first and last frames, generate video
+
+ 🔌【FTK_Multi-image Vlog Generation】: Input ≥2 images, generate Vlog video
+
+ 🔌【FTK_Person Replacement】: Input 2 images, replace the person in image 1 to the specified position in image 2
+
+ 🔌【FTK_Head Replacement】: Input 2 images, replace the head of the person in image 1 to the face of the person in image 2
+
+ 🔌【FTK_Face Replacement】: Input 2 images, replace the face of the person in image 1 to the face of the person in image 2
+
+ 🔌【FTK_Clothing Replacement】: Input 2 images, apply the clothing in image 1 to the person in image 2
+
+ 🔌【FTK_Text to Image】: Input text, generate image/photo (non-portrait)
+
+ 🔌【FTK_Text to Video】: Input text description, generate video
+
+ 🔌【FTK_Text to Voice】: Input text and 1 audio, generate voice
+
+ 🔌【FTK_Imitate Video Action】: Input 1 image and 1 video, make the image character imitate the video action
+
+ 🔌【FTK_Image Enhancement】: Input 1 image, perform image optimization (enhancement)
+
+ 🔌【FTK_Image Enhancement Portrait Mode】: Input 2 images, perform portrait image enhancement optimization
+
+ 🔌【FTK_Image Enhancement Character Mode】: Input 2 images, perform character image enhancement optimization
+
+ 🔌【FTK_Visual Short Film Generation】: Input 1 image, generate visual short film according to requirements
+ 🔌【FTK_Video Upscaling_2K】: Input 1 video, upscale to 2K resolution
+
+ 🔌【FTK_Video Character Replacement】: Input 1 image and 1 video, replace the video character with the image character
+
+ 🔌【FTK_Video with BGM】: Input 1 video, generate background music according to requirements
+
+ 🔌【FTK_Video with BGM and Effects】: Input 1 video, generate background music and sound effects according to requirements
 
 ## Frequently Asked Questions
 
@@ -202,3 +272,7 @@ This software can be used for personal and commercial purposes. You can create y
 
 ---
 © 2025 FTK Canvas Agent. All rights reserved.
+
+
+
+
