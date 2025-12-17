@@ -1,9 +1,9 @@
 # FTK_CANVAS_AGENT Project Introduction
 [中文介绍](https://github.com/zeusftk/FTK_CANVAS_AGENT_for_Comfyui/blob/main/README.md)
 ## Project Overview  
-FTK Canvas Agent is a powerful multimedia processing and automation toolset, focusing on video, audio processing and intelligent editing.
+FTK Canvas Agent is a powerful multimedia processing and automation toolset, focusing on video, audio processing and intelligent editing.  
 
-This tool integrates multiple advanced AI technologies, covering the entire process of video, audio, and editing, with core capabilities including **✨ AI Editing, AI Effects, Intelligent Voice-over** and more. It features built-in horizontal/vertical screen classification, scene slicing, action segment extraction, subtitle addition, voice conversion and other practical functions, supporting **🚀 Ready-to-use with zero configuration**.
+This tool integrates multiple advanced AI technologies, covering the entire process of video, audio, and editing, with core capabilities including **✨ AI Editing, AI Effects, Intelligent Voice-over, AI Auto Comment** and more. It features built-in horizontal/vertical screen classification, scene slicing, action segment extraction, subtitle addition, voice conversion and other practical functions, supporting **🚀 Ready-to-use with zero configuration**.
 
 FTK Canvas Agent's core function: By connecting to ComfyUI to implement AI services, intelligently managing ComfyUI workflows, enabling seamless workflow calls through dialogue to complete various tasks.
 
@@ -67,8 +67,6 @@ After configuring ComfyUI, FTK Canvas Agent can automatically call and execute C
 * 2025-12-17: 👋 v1.05 Released, stable version. Added automatic Douyin/Xiaohongshu comment feature, directly input auto comment to bring up the interface. (You can use the comment function without downloading the model (200G))
     - Windows version, Baidu Netdisk: https://pan.baidu.com/s/1vQplT_mcC6upgnl9NRsrzA?pwd=q68x
 * 2025-11-10: 👋 v1.03 Released, stable version. Planned features are still in testing. One-click installation package available.
-    - Windows version, Baidu Netdisk: https://pan.baidu.com/s/1vQplT_mcC6upgnl9NRsrzA?pwd=q68x
-    - Windows version, Thunder download address (BT download): [Torrent](https://github.com/zeusftk/FTK_CANVAS_AGENT_for_Comfyui/blob/main/assert/FTK_CANVAS_AGENT_v1.03.torrent)
 * 2025-10-30: 👋 v1.02 Released, update package. Fixed some frontend display bugs and improved agent planning capabilities. Extract the update package to the root directory of v1.01 and run update.exe to complete the update.
 * 2025-10-26: 👋 v1.01 Released, one-click installation package.
 
@@ -274,6 +272,7 @@ This software can be used for personal and commercial purposes. You can create y
 
 ---
 © 2025 FTK Canvas Agent. All rights reserved.
+
 
 
 
