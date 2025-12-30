@@ -64,6 +64,8 @@ After configuring ComfyUI, FTK Canvas Agent can automatically call and execute C
 
 
 ## 🔥 Latest Update!!
+* 2025-12-30: 👋 v1.06 Released, upgrade patch available. Added one-click short drama feature, enter '【一键短剧】' to bring up the interface.
+    - Windows version, Baidu Netdisk: https://pan.baidu.com/s/1vQplT_mcC6upgnl9NRsrzA?pwd=q68x
 * 2025-12-17: 👋 v1.05 Released, stable version. Added automatic Douyin/Xiaohongshu comment feature, directly input auto comment to bring up the interface. (You can use the comment function without downloading the model (200G))
     - Windows version, Baidu Netdisk: https://pan.baidu.com/s/1vQplT_mcC6upgnl9NRsrzA?pwd=q68x
 * 2025-11-10: 👋 v1.03 Released, stable version. Planned features are still in testing. One-click installation package available.
